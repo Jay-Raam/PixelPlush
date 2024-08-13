@@ -1,0 +1,23 @@
+.carouselSection {
+  text-align: center;
+  height: 300px !important;
+  margin-top: 40px;
+}
+
+.carouselContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.carouselContent {
+  margin: 0 1rem;
+  flex: 1;
+}
+
+.testimonialCard {
+  background: #f4f4f4;
+  border-radius: 8px;
+  padding: 1rem;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}

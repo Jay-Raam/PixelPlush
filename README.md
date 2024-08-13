@@ -1,70 +1,65 @@
-# Getting Started with Create React App
+# PixelPlush — v1
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to PixelPlush, a modern web application designed to display stunning images from Unsplash. This project showcases my passion for creating intuitive and user-friendly applications with a focus on aesthetics and functionality.
 
-## Available Scripts
+## Overview
 
-In the project directory, you can run:
+PixelPlush allows users to explore and download high-quality photos sourced from the Unsplash API. With a sleek design and smooth animations, it aims to provide an engaging experience while keeping it simple and accessible. Additionally, it includes a contact form for users to submit their inquiries or feedback.
 
-### `npm start`
+## Tech Stack
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Client: React, AOS (Animate On Scroll), React Router.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Hosting: Vercel.
 
-### `npm test`
+## Screenshots & Demo
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+[View Live Demo](https://jay-protfolio.vercel.app/)
 
-### `npm run build`
+## Run Locally
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+To get started with PixelPlush locally:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Clone the project
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```bash
+git clone https://github.com/Jay-Raam/PixelPlush.git
 
-### `npm run eject`
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Navigate to the project directory
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+cd PixelPlush
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Install dependencies
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```bash
+npm install
+npm install react-router-dom
+npm install aos
+```
 
-## Learn More
+Start the development server
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```bash
+npm start
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Features
 
-### Code Splitting
+New Trendy Design: Features a contemporary and visually appealing design to enhance user experience.
+Easy Access: Seamless navigation with React Router for efficient routing.
+User-Friendly: Optimized for ease of use with smooth animations provided by the AOS library.
+Contact Form: Allows users to submit inquiries or feedback directly through the site, making communication straightforward and efficient.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Contributing & Usage
 
-### Analyzing the Bundle Size
+Feel free to leverage the PixelPlush codebase. Whether you’re looking to build upon the existing functionality or incorporate elements into your personal or professional work, you are encouraged to modify and adapt it as needed. However, please use the code responsibly and avoid any misuse. PixelPlush is open-source, and contributions are warmly welcomed!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+If you have any questions, suggestions, or need assistance with the code, don’t hesitate to reach out to me on [Instagram.](https://www.instagram.com/_ivanjay_/). I’m always happy to provide support and collaborate with fellow developers.
 
-### Making a Progressive Web App
+## License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[MIT](https://choosealicense.com/licenses/mit/)
