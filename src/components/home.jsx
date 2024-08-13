@@ -134,7 +134,7 @@ const HomePage = () => {
         </div>
       </section>
 
-      <section className={styles.categoriesSection}>
+      <section className={styles.categoriesSection} data-aos="fade-up">
         <h2>Featured Categories</h2>
         <p>
           Explore images across various categories to find exactly what you’re
@@ -168,7 +168,7 @@ const HomePage = () => {
         <Caroursol className={styles.main001} />
       </section>
 
-      <section className={styles.gallerySection}>
+      <section className={styles.gallerySection} data-aos="fade-up">
         <h2>Featured Image Gallery</h2>
         <ImageGallery />
       </section>

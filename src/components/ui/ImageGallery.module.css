@@ -40,12 +40,6 @@
 
 @media (max-width: 600px) {
   .galleryItem {
-    flex: 1 1 calc(50% - 32px);
-  }
-}
-
-@media (max-width: 400px) {
-  .galleryItem {
     flex: 1 1 100%;
   }
 }

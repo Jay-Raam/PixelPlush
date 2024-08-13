@@ -228,3 +228,9 @@ textarea {
     width: 280px;
   }
 }
+
+@media (max-width: 600px) {
+  .categoryCard {
+    width: 100% !important;
+  }
+}

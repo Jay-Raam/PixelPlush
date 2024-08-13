@@ -54,6 +54,335 @@ const SelectedImageModal = ({ selectedImage, onClose }) => {
               className="gal-09"
               width="1em"
               height="1em"
+              viewBox="0 0 32 32"
+            >
+              <g fill="none">
+                <rect
+                  width="28"
+                  height="20"
+                  x="2"
+                  y="6"
+                  fill="url(#f873id8)"
+                  rx="2"
+                />
+                <rect
+                  width="28"
+                  height="20"
+                  x="2"
+                  y="6"
+                  fill="url(#f873id0)"
+                  rx="2"
+                />
+                <g filter="url(#f873idc)">
+                  <path
+                    fill="#ccc1d3"
+                    d="M15.643 23.595c.29.17.645.155.93-.023c2.038-1.273 5.43-3.826 6.789-7.23c1.985-4.408-2.688-7.852-5.91-5.32c-.35.275-.825.68-1.13 1.015c-.112.123-.317.134-.432.013c-.367-.388-.956-.944-1.35-1.21c-2.746-1.859-7.73.514-5.6 5.741c.78 2.34 4.59 5.763 6.703 7.014"
+                  />
+                </g>
+                <path
+                  fill="url(#f873id1)"
+                  d="M2 8a2 2 0 0 1 2-2h1v20H4a2 2 0 0 1-2-2z"
+                />
+                <path
+                  fill="url(#f873id2)"
+                  d="M2 8a2 2 0 0 1 2-2h24a2 2 0 0 1 2 2z"
+                />
+                <path
+                  fill="url(#f873id3)"
+                  d="M27 6h1a2 2 0 0 1 2 2v16a2 2 0 0 1-2 2h-1z"
+                />
+                <path
+                  fill="url(#f873id4)"
+                  d="M2 21h28v3a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2z"
+                />
+                <path
+                  fill="#c2b4cb"
+                  fill-rule="evenodd"
+                  d="M2.124 24.695A2 2 0 0 1 2 24v-.41l10.232-6.512l.536.844z"
+                  clip-rule="evenodd"
+                />
+                <path
+                  fill="#cec4d7"
+                  fill-rule="evenodd"
+                  d="M30 23.59V24c0 .245-.044.479-.124.695l-10.644-6.773l.536-.844z"
+                  clip-rule="evenodd"
+                />
+                <path
+                  fill="#c5b9c4"
+                  fill-rule="evenodd"
+                  d="M2.121 7.313A2 2 0 0 0 2 8v.434l8.223 5.482l.554-.832z"
+                  clip-rule="evenodd"
+                />
+                <path
+                  fill="#d5cfda"
+                  fill-rule="evenodd"
+                  d="M29.879 7.313c.078.214.121.446.121.687v.434l-8.223 5.482l-.554-.832z"
+                  clip-rule="evenodd"
+                />
+                <path
+                  fill="url(#f873id9)"
+                  d="M16.131 22.794c.29.17.645.154.93-.023c2.1-1.31 5.608-3.945 7.011-7.46c2.046-4.544-2.77-8.093-6.09-5.484c-.364.286-.858.707-1.172 1.054a.3.3 0 0 1-.431.013c-.379-.4-.99-.978-1.399-1.255c-2.83-1.915-7.968.53-5.77 5.918c.803 2.416 4.746 5.955 6.921 7.237"
+                />
+                <path
+                  fill="url(#f873ida)"
+                  d="M16.131 22.794c.29.17.645.154.93-.023c2.1-1.31 5.608-3.945 7.011-7.46c2.046-4.544-2.77-8.093-6.09-5.484c-.364.286-.858.707-1.172 1.054a.3.3 0 0 1-.431.013c-.379-.4-.99-.978-1.399-1.255c-2.83-1.915-7.968.53-5.77 5.918c.803 2.416 4.746 5.955 6.921 7.237"
+                />
+                <path
+                  fill="url(#f873id5)"
+                  d="M16.131 22.794c.29.17.645.154.93-.023c2.1-1.31 5.608-3.945 7.011-7.46c2.046-4.544-2.77-8.093-6.09-5.484c-.364.286-.858.707-1.172 1.054a.3.3 0 0 1-.431.013c-.379-.4-.99-.978-1.399-1.255c-2.83-1.915-7.968.53-5.77 5.918c.803 2.416 4.746 5.955 6.921 7.237"
+                />
+                <path
+                  fill="url(#f873idb)"
+                  fill-opacity="0.75"
+                  d="M16.131 22.794c.29.17.645.154.93-.023c2.1-1.31 5.608-3.945 7.011-7.46c2.046-4.544-2.77-8.093-6.09-5.484c-.364.286-.858.707-1.172 1.054a.3.3 0 0 1-.431.013c-.379-.4-.99-.978-1.399-1.255c-2.83-1.915-7.968.53-5.77 5.918c.803 2.416 4.746 5.955 6.921 7.237"
+                />
+                <g filter="url(#f873idd)">
+                  <path
+                    stroke="url(#f873id6)"
+                    stroke-linecap="round"
+                    stroke-opacity="0.6"
+                    d="M13.063 10.813a6.44 6.44 0 0 1 3.103 1.996c.273.315.396.728.396 1.144v4.235"
+                  />
+                </g>
+                <g filter="url(#f873ide)">
+                  <path
+                    stroke="url(#f873id7)"
+                    stroke-linecap="round"
+                    stroke-opacity="0.6"
+                    d="M22.063 10.625c1.53 1.031 1.5 2.719 1.343 3.406"
+                  />
+                </g>
+                <g filter="url(#f873idf)" opacity="0.5">
+                  <path fill="#fff" d="M27.959 7.313h1V23.5h-1z" />
+                </g>
+                <defs>
+                  <linearGradient
+                    id="f873id0"
+                    x1="-.875"
+                    x2="14.375"
+                    y1="-.625"
+                    y2="16"
+                    gradientUnits="userSpaceOnUse"
+                  >
+                    <stop stop-color="#e3c3c4" stop-opacity="0.6" />
+                    <stop offset="1" stop-color="#e1c0c2" stop-opacity="0" />
+                  </linearGradient>
+                  <linearGradient
+                    id="f873id1"
+                    x1="2"
+                    x2="5"
+                    y1="16"
+                    y2="16"
+                    gradientUnits="userSpaceOnUse"
+                  >
+                    <stop stop-color="#e3c3c4" />
+                    <stop offset="1" stop-color="#e1c0c2" stop-opacity="0" />
+                  </linearGradient>
+                  <linearGradient
+                    id="f873id2"
+                    x1="16"
+                    x2="16"
+                    y1="6"
+                    y2="7.5"
+                    gradientUnits="userSpaceOnUse"
+                  >
+                    <stop stop-color="#dedede" />
+                    <stop offset="1" stop-color="#e8e4e8" stop-opacity="0" />
+                  </linearGradient>
+                  <linearGradient
+                    id="f873id3"
+                    x1="30"
+                    x2="27"
+                    y1="16"
+                    y2="16"
+                    gradientUnits="userSpaceOnUse"
+                  >
+                    <stop stop-color="#dedede" />
+                    <stop offset="1" stop-color="#e8e4e8" stop-opacity="0" />
+                  </linearGradient>
+                  <linearGradient
+                    id="f873id4"
+                    x1="16"
+                    x2="16"
+                    y1="21"
+                    y2="26"
+                    gradientUnits="userSpaceOnUse"
+                  >
+                    <stop stop-color="#dcc8ef" stop-opacity="0" />
+                    <stop offset="1" stop-color="#c79be7" />
+                  </linearGradient>
+                  <linearGradient
+                    id="f873id5"
+                    x1="16.563"
+                    x2="16.563"
+                    y1="13.75"
+                    y2="24.508"
+                    gradientUnits="userSpaceOnUse"
+                  >
+                    <stop offset=".151" stop-color="#c12372" stop-opacity="0" />
+                    <stop offset=".895" stop-color="#c12372" />
+                  </linearGradient>
+                  <linearGradient
+                    id="f873id6"
+                    x1="15.656"
+                    x2="18.619"
+                    y1="10.156"
+                    y2="11.252"
+                    gradientUnits="userSpaceOnUse"
+                  >
+                    <stop stop-color="#ff9e75" />
+                    <stop offset="1" stop-color="#ff9e75" stop-opacity="0" />
+                  </linearGradient>
+                  <linearGradient
+                    id="f873id7"
+                    x1="22.625"
+                    x2="25.588"
+                    y1="10.156"
+                    y2="11.252"
+                    gradientUnits="userSpaceOnUse"
+                  >
+                    <stop stop-color="#ff9e75" />
+                    <stop offset="1" stop-color="#ff9e75" stop-opacity="0" />
+                  </linearGradient>
+                  <radialGradient
+                    id="f873id8"
+                    cx="0"
+                    cy="0"
+                    r="1"
+                    gradientTransform="matrix(-26.00018 20.49983 -28.69971 -36.40018 24 9.5)"
+                    gradientUnits="userSpaceOnUse"
+                  >
+                    <stop stop-color="#f3eff9" />
+                    <stop offset=".48" stop-color="#e9e2ea" />
+                    <stop offset=".676" stop-color="#e8d2f5" />
+                  </radialGradient>
+                  <radialGradient
+                    id="f873id9"
+                    cx="0"
+                    cy="0"
+                    r="1"
+                    gradientTransform="matrix(0 14.3125 -27.6487 0 19.271 11.693)"
+                    gradientUnits="userSpaceOnUse"
+                  >
+                    <stop stop-color="#f12e52" />
+                    <stop offset=".596" stop-color="#ff3b79" />
+                    <stop offset="1" stop-color="#ff4ec6" />
+                  </radialGradient>
+                  <radialGradient
+                    id="f873ida"
+                    cx="0"
+                    cy="0"
+                    r="1"
+                    gradientTransform="matrix(-11.9374 9.00005 -16.85803 -22.36 20.563 12.5)"
+                    gradientUnits="userSpaceOnUse"
+                  >
+                    <stop offset=".483" stop-color="#c12372" stop-opacity="0" />
+                    <stop offset=".834" stop-color="#c12372" />
+                  </radialGradient>
+                  <radialGradient
+                    id="f873idb"
+                    cx="0"
+                    cy="0"
+                    r="1"
+                    gradientTransform="matrix(0 -14 20.5463 0 16.313 21.75)"
+                    gradientUnits="userSpaceOnUse"
+                  >
+                    <stop offset=".719" stop-color="#ff7033" stop-opacity="0" />
+                    <stop offset="1" stop-color="#ff7033" />
+                  </radialGradient>
+                  <filter
+                    id="f873idc"
+                    width="19.412"
+                    height="17.553"
+                    x="6.425"
+                    y="8.162"
+                    color-interpolation-filters="sRGB"
+                    filterUnits="userSpaceOnUse"
+                  >
+                    <feFlood flood-opacity="0" result="BackgroundImageFix" />
+                    <feBlend
+                      in="SourceGraphic"
+                      in2="BackgroundImageFix"
+                      result="shape"
+                    />
+                    <feGaussianBlur
+                      result="effect1_foregroundBlur_6990_5054"
+                      stdDeviation="1"
+                    />
+                  </filter>
+                  <filter
+                    id="f873idd"
+                    width="8.5"
+                    height="12.375"
+                    x="10.562"
+                    y="8.312"
+                    color-interpolation-filters="sRGB"
+                    filterUnits="userSpaceOnUse"
+                  >
+                    <feFlood flood-opacity="0" result="BackgroundImageFix" />
+                    <feBlend
+                      in="SourceGraphic"
+                      in2="BackgroundImageFix"
+                      result="shape"
+                    />
+                    <feGaussianBlur
+                      result="effect1_foregroundBlur_6990_5054"
+                      stdDeviation="1"
+                    />
+                  </filter>
+                  <filter
+                    id="f873ide"
+                    width="6.414"
+                    height="8.406"
+                    x="19.562"
+                    y="8.125"
+                    color-interpolation-filters="sRGB"
+                    filterUnits="userSpaceOnUse"
+                  >
+                    <feFlood flood-opacity="0" result="BackgroundImageFix" />
+                    <feBlend
+                      in="SourceGraphic"
+                      in2="BackgroundImageFix"
+                      result="shape"
+                    />
+                    <feGaussianBlur
+                      result="effect1_foregroundBlur_6990_5054"
+                      stdDeviation="1"
+                    />
+                  </filter>
+                  <filter
+                    id="f873idf"
+                    width="6"
+                    height="21.187"
+                    x="25.459"
+                    y="4.813"
+                    color-interpolation-filters="sRGB"
+                    filterUnits="userSpaceOnUse"
+                  >
+                    <feFlood flood-opacity="0" result="BackgroundImageFix" />
+                    <feBlend
+                      in="SourceGraphic"
+                      in2="BackgroundImageFix"
+                      result="shape"
+                    />
+                    <feGaussianBlur
+                      result="effect1_foregroundBlur_6990_5054"
+                      stdDeviation="1.25"
+                    />
+                  </filter>
+                </defs>
+              </g>
+            </svg>
+            <p className="gal-012">{bio}</p>
+          </div>
+        )}
+        {location && (
+          <div className="flex">
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              className="gal-09"
+              width="1em"
+              height="1em"
               viewBox="0 0 24 24"
             >
               <path
@@ -63,10 +392,9 @@ const SelectedImageModal = ({ selectedImage, onClose }) => {
                 d="M17.5 6.5L23 9v13l-7-3l-8 3l-7-3V6l5 2m10 11v-7M8 22V12m4 4.273S6 11.5 6 7c0-3.75 3-6 6-6s6 2.25 6 6c0 4.5-6 9.273-6 9.273ZM13 7a1 1 0 1 0-2 0a1 1 0 0 0 2 0Z"
               />
             </svg>
-            <p className="gal-012">{bio}</p>
+            <p className="gal-012">{location}</p>
           </div>
         )}
-        {location && <h4 className="gal-016 flex">{location}</h4>}
         <div className="flex">
           {social.instagram_username && (
             <a
