@@ -13,8 +13,7 @@ Client: React, AOS (Animate On Scroll), React Router.
 Hosting: Vercel.
 
 ## Screenshots & Demo
-
-[View Live Demo](https://jay-protfolio.vercel.app/)
+[View Live Demo](https://jayasriraampixelplush.vercel.app/)
 
 ## Run Locally
 
