@@ -48,16 +48,18 @@ npm start
 
 ## Features
 
-New Trendy Design: Features a contemporary and visually appealing design to enhance user experience.
-Easy Access: Seamless navigation with React Router for efficient routing.
-User-Friendly: Optimized for ease of use with smooth animations provided by the AOS library.
-Contact Form: Allows users to submit inquiries or feedback directly through the site, making communication straightforward and efficient.
+New Trendy Design: Features a contemporary and visually appealing design to enhance user experience.<br/>
+Easy Access: Seamless navigation with React Router for efficient routing.<br/>
+User-Friendly: Optimized for ease of use with smooth animations provided by the AOS library.<br/>
+Contact Form: Allows users to submit inquiries or feedback directly through the site, making communication straightforward and efficient.<br/>
 
 ## Contributing & Usage
 
-Feel free to leverage the PixelPlush codebase. Whether you’re looking to build upon the existing functionality or incorporate elements into your personal or professional work, you are encouraged to modify and adapt it as needed. However, please use the code responsibly and avoid any misuse. PixelPlush is open-source, and contributions are warmly welcomed!
+Feel free to leverage the PixelPlush codebase. Whether you’re looking to build upon the existing functionality or incorporate elements into your personal or professional work, you are encouraged to modify and adapt it as needed. However, please use the code responsibly and avoid any misuse. PixelPlush is open-source, and contributions are warmly welcomed!<br/>
 
-If you have any questions, suggestions, or need assistance with the code, don’t hesitate to reach out to me on [Instagram.](https://www.instagram.com/_ivanjay_/). I’m always happy to provide support and collaborate with fellow developers.
+If you have any questions, suggestions, or need assistance with the code, don’t hesitate to reach out to me on [Instagram.](https://www.instagram.com/_ivanjay_/).<br/>
+
+I’m always happy to provide support and collaborate with fellow developers.<br/>
 
 ## License
 
