@@ -4,7 +4,7 @@ import styles from "./TestimonialCarousel.module.css";
 const testimonials = [
   {
     text: "An excellent tool for finding high-quality images quickly. I use it for my blog and social media posts!",
-    author: "- Priyadahrshini.",
+    author: "- Priyadharshini.",
   },
   {
     text: "The image selection is always fresh and beautiful. Downloading images is hassle-free and straightforward.",
@@ -22,7 +22,7 @@ const TestimonialCarousel = () => {
   useEffect(() => {
     const intervalId = setInterval(() => {
       setCurrentIndex((prevIndex) => (prevIndex + 1) % testimonials.length);
-    }, 3000);
+    }, 6000);
 
     return () => clearInterval(intervalId);
   }, []);
